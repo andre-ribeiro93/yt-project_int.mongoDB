@@ -12,6 +12,7 @@ export const ResponsiveContainer = styled.div`
   position: sticky;
   top: 0;
   z-index: 100;
+  background-color: #fff
 `;
 
 export const Container = styled.header`
