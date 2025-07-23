@@ -65,9 +65,9 @@ Obs.: após algum tempo sem receber requisições a API pode demorar um pouco pa
 
 ### ▶️ Executando o projeto
 
-    npm run dev
+  npm run dev
 
-    O servidor será iniciado em: http://localhost:5173/
+  O servidor será iniciado em: http://localhost:5173/
 
 
 ## 📄 Licença
