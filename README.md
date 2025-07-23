@@ -35,7 +35,7 @@ Obs.: após algum tempo sem receber requisições a API pode demorar um pouco pa
 
 ### ⚙️ Requisitos
 
-Antes de começar, certifique-se de ter os seguintes recursos instalados em sua máquina:
+  Antes de começar, certifique-se de ter os seguintes recursos instalados em sua máquina:
 
   - Node.js
 
@@ -48,26 +48,26 @@ Antes de começar, certifique-se de ter os seguintes recursos instalados em sua 
 
 1. Clone o repositório:
 
-  git clone https://github.com/andre-ribeiro93/yt-project_int.mongoDB.git
-  cd yt-api
+    git clone https://github.com/andre-ribeiro93/yt-project_int.mongoDB.git  
+    cd yt-api
 
 2. Instale as dependências:
 
-  npm install
+    npm install
 
 3. Configure o arquivo .env:
 
-Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+    Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 
-  VITE_YOUTUBE_API_KEY = <your_youtube_api_key>
-  VITE_APP_API_BASE_URL = <API_URL>
+    VITE_YOUTUBE_API_KEY = <your_youtube_api_key>  
+    VITE_APP_API_BASE_URL = <API_URL>
 
 
 ### ▶️ Executando o projeto
 
-  npm run dev
+    npm run dev
 
-O servidor será iniciado em: http://localhost:5173/
+    O servidor será iniciado em: http://localhost:5173/
 
 
 ## 📄 Licença
