@@ -1,0 +1,23 @@
+export const categoriesItems = [
+  { name: 'All', id: '0', uid: '01' },
+  { name: 'Gaming', id: '20', uid: '02' },
+  { name: 'Music', id: '10', uid: '03' },
+  { name: 'Technology', id: '28', uid: '04' },
+  { name: 'News', id: '25', uid: '05' },
+  { name: 'Autos & Vehicles', id: '2', uid: '06' },
+  { name: 'Entertainment', id: '24', uid: '07' },
+  { name: 'Recently uploaded', id: '0', uid: '08' },
+  { name: 'People', id: '22', uid: '09' },
+  { name: 'Comedy', id: '23', uid: '010' },
+  { name: 'Video clips', id: '10', uid: '011' },
+  { name: 'Cinema', id: '1', uid: '012' },
+  { name: 'Sports', id: '17', uid: '013' },
+  { name: 'Pets & Animals', id: '15', uid: '014'},
+  { name: 'How to', id: '26', uid: '015' },
+  { name: 'Blogs', id: '22', uid: '016' },
+  { name: 'Reports', id: '25', uid: '017' },
+  { name: 'Gadgets', id: '28', uid: '018' },
+  { name: 'Playing', id: '20', uid: '019' },
+  { name: 'Movies', id: '1', uid: '020' },
+  { name: 'New to you', id: '0', uid: '021' }
+];
