@@ -60,7 +60,10 @@ function DeleteModal() {
           </UploadButton>
           <UploadButton
             variant='black'
-            onClick={handleDeleteVideo}
+            onClick={() => {
+              handleDeleteVideo()
+              setIsDeleteModalOpen(false)
+            }}
           >
             Delete
           </UploadButton>

@@ -15,7 +15,7 @@ export const ModalBackground = styled.div<modalProps>`
   background-color: rgba(0, 0, 0, 0.5);
   visibility: ${({ modal }) => modal ? 'visible' : 'hidden'};
   position: fixed;
-  z-index: 2000;
+  z-index: 3000;
 `;
 
 export const ModalContainer = styled.div`
