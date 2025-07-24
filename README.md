@@ -73,3 +73,7 @@ Obs.: após algum tempo sem receber requisições a API pode demorar um pouco pa
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## Projeto Relacionado
+
+- 🗃️ [yt-api_mongoDB](https://github.com/andre-ribeiro93/yt-api_mongoDB): API desenvolvida especificamente para este projeto, com persistência de dados em banco NoSQL (MongoDB).
